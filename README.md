@@ -1,8 +1,11 @@
-
-<h1 align="center">
-    CYBER // STRIKE
-</h1>
-<div></div>
+<div>
+    <h1 align="center">
+        CYBER // STRIKE
+    </h1>
+    <h3 align="center">
+        Platformer Game
+    </h3>
+</div>
 <p align="center">
    place your device to the side to begin tracking.
 </p>
