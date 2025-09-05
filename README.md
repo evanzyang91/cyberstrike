@@ -2,6 +2,7 @@
 <h1 align="center">
     CYBER // STRIKE
 </h1>
+<div></div>
 <p align="center">
    place your device to the side to begin tracking.
 </p>
