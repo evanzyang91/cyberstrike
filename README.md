@@ -2,21 +2,14 @@
     <h1 align="center">
         CYBER // STRIKE
     </h1>
-    <h3 align="center">
-        Platformer Game
-    </h3>
 </div>
 <p align="center">
-   place your device to the side to begin tracking.
+   platformer
 </p>
-
-![main camera](demo1.mp4)
 
 <p align="center">
    scroll down to get real-time stats as you work.
 </p>
-
-![posture statistics](resources/ss2.jpg)
 
 https://github.com/user-attachments/assets/e707aa73-2580-425e-bae4-8376570a979a
 
