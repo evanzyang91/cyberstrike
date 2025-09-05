@@ -14,6 +14,10 @@
 
 ![posture statistics](resources/ss2.jpg)
 
+https://github.com/user-attachments/assets/e707aa73-2580-425e-bae4-8376570a979a
+
+
+
 <p align="center">
    get warnings as poor posture persists.
 </p>
