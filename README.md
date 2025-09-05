@@ -6,7 +6,7 @@
    place your device to the side to begin tracking.
 </p>
 
-![main camera](Media/demo1.mp4)
+![main camera](demo1.mp4)
 
 <p align="center">
    scroll down to get real-time stats as you work.
