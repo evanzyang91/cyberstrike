@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-    Traverse unique maps in CYBER // STRIKE as you collect coins, discover secrets, and defeat enemies.
+    Traverse unique maps as you collect coins, discover secrets, and defeat enemies to advance. Don't fall!
 </p>
 <p align="center">
     Scroll down for a peek at the gameplay and how the game works.
