@@ -16,9 +16,13 @@ https://github.com/user-attachments/assets/e707aa73-2580-425e-bae4-8376570a979a
 ## Controls
 
 Main Menu:
+
 SPACE to enter selected level
+
 ARROW KEYS to select level
 
 In Game:
+
 ARROW KEYS for movement
+
 SPACE 
